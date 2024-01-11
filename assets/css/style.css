@@ -4629,7 +4629,7 @@ header {
 }
 
 .hamenu .cont-info .bottom,
-.about-pryag {
+.about-prayag {
   -webkit-transform: translateY(30px);
   -ms-transform: translateY(30px);
   transform: translateY(30px);
@@ -4659,7 +4659,7 @@ header {
   transition-delay: 0.4s;
 }
 
-.about-pryag,
+.about-prayag,
 .topnav .menu-icon.open .text:after {
   opacity: 1;
   -webkit-transition-delay: 0.6s;
@@ -4751,12 +4751,12 @@ header.two.topnav .menu-icon.open .icon i {
   background: #fff;
 }
 
-.about-pryag img {
+.about-prayag img {
   width: 100%;
   border-radius: 24px;
 }
 
-.about-pryag.bottom h4 {
+.about-prayag.bottom h4 {
   color: #fff;
   text-transform: uppercase;
   padding-top: 40px;
@@ -5625,4 +5625,8 @@ ul.pagination li.prev,
 .bannr-text {
   position: relative;
   z-index: 1;
+}
+
+.footer-links ul li {
+  text-transform: capitalize;
 }

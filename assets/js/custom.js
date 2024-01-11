@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: pryag
+    Template Name: prayag
 
     Note: This is Custom Js file
 
