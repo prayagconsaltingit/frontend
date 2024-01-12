@@ -3,6 +3,7 @@
 body {
   font-family: "Epilogue";
   overflow-x: hidden;
+  text-transform: capitalize;
 }
 
 p {
@@ -4370,7 +4371,9 @@ header {
   height: 110px;
   align-items: center;
 }
-
+.email-i {
+  text-transform: lowercase;
+}
 .header-bar > a {
   z-index: 111111;
   position: relative;
@@ -5629,4 +5632,10 @@ ul.pagination li.prev,
 
 .footer-links ul li {
   text-transform: capitalize;
+}
+.heading img {
+  padding-bottom: 20px;
+  max-width: 66px;
+  height: auto;
+  width: 100%;
 }
